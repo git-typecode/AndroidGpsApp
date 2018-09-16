@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array
+        name="systems_selection">
+        <item>Metric</item>
+        <item>Imperial</item>
+        <item>Nautical</item>
+    </array>
+</resources>

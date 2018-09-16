@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array
+        name="gps_data_types">
+        <item>Latitude</item>
+        <item>Longitude</item>
+        <item>Speed(m/s)</item>
+        <item>Bearing(°)</item>
+        <item>Altitude(m)</item>
+        <item>Local time</item>
+        <item>Satellites</item>
+        <item>Distance(m)</item>
+    </array>
+</resources>
